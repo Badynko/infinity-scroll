@@ -48,10 +48,6 @@ h1 {
 /* Media Query : Large Smartphones */
 @media screen and (max-width: 600px) {
   h1 {
-    font-size: 20px;
-  }
-
-  .image-container {
-    margin: 10px;
+    font-size: ;
   }
 }
